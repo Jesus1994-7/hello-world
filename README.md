@@ -26,7 +26,7 @@ Esto vicia!
 
 | Alias | Nombre | Apellido | Repositorio |
 | :-------: | :------: | :------: | :-------: |
-| @vicboma1 | Víctor | Bolinches | [Loader Dumps Arcade Emulator](https://github.com/vicboma1/loaderDumpsArcade)
+| @Jesus1994-7 | Jesús | Cánovas | [Animación Bote Esfera](https://github.com/Jesus1994-7/EsferaMovimiento)
 
 
 # Referencias
